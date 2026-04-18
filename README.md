@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Olá, obrigado pela visita 👋
 
 **Desenvolvedor Web | Infraestrutura & Redes | Automação e IA | São Paulo, Brasil 🇧🇷**
