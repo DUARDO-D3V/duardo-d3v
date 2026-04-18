@@ -10,9 +10,7 @@ Dev focado em projetar e implementar soluções tecnológicas eficientes e escal
 🚀 Projetos em Destaque (Online)
 
 * 🌐 **[BarberShop do Guii](https://barbershopdoguii.netlify.app/)** | Gestão financeira completa para barbearias, com controle de lucros, comissionamento de barbeiros e sistema de autenticação.
-- Tech Stack: React, Firebase, Python e JavaScript.
 * 📖 **[Marinete Teixeira](https://marineteteixeira.com.br/)** | Landing page institucional focada em alta conversão e performance, com design responsivo otimizado para mobile e desktop.
--Tech Stack: HTML5, CSS3 Avançado e JavaScript.
 
 - 🔭 **Atualmente trabalhando em:** Desenvolvimento de um Portal NOC (Network Operations Center) corporativo para gestão dinâmica, integrado a um Chatbot inteligente construído com **Python, RAG e LLMs locais**. ** Projetos de gestão financeira para pequenos negócios, criação de lnading pages para profissionais**
 - 💼 **Projetos Recentes:** Arquitetura e desenvolvimento de plataformas de e-commerce, contemplando modelagem de dados, integração de gateways de pagamento, segurança e rotinas de entrega automatizada.
